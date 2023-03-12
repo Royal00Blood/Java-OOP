@@ -15,6 +15,7 @@ public abstract class AbstractGame implements Game {
     Integer sizeWord;
     String word;
     Integer maxTry;
+    ArrayList<Answer> history;
 
     static int countTry;
     GameStatus gameStatus = GameStatus.INIT;
@@ -37,6 +38,7 @@ public abstract class AbstractGame implements Game {
         this.sizeWord = sizeWord;
         word = generateWord();
         this.gameStatus = GameStatus.START;
+        this.history = new ArrayList<Answer>();
     }
 
     @Override
@@ -55,6 +57,8 @@ public abstract class AbstractGame implements Game {
         countTry++;
         Answer answer = new Answer(cow, bull, value);
         gameStatus = checkState(value);
+
+        history.add(answer);
         return answer;
     }
 
@@ -72,5 +76,10 @@ public abstract class AbstractGame implements Game {
     }
 
     abstract List<String> generateCharList();
+
+    @Override
+    public ArrayList<Answer> getHistory() {
+        return history;
+    }
 }
 

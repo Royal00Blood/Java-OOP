@@ -1,5 +1,7 @@
 package Homework.HomeWork_3.game;
 
+import javax.swing.*;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Application {
@@ -42,8 +44,16 @@ public class Application {
             moveNum ++;
             String answer = in.next();
             Answer answerGame = game.inputAnswer(answer);
+
             System.out.println(String.format("Найдено %d коров и %d быков.", answerGame.getCows(), answerGame.getBulls()));
         }
         System.out.println(game.getGameStatus());
+
+        if(true){
+            ArrayList<Answer> his = game.getHistory();
+            for (int i = 0; i < his.size(); i++) {
+                System.out.println(String.format("Ход № %d: Пользователь ввел: %s Совпало элементов: %d  Совпало элементов по позиции: %d",i, his.get(i).getUserInput(), his.get(i).getCows(), his.get(i).getBulls()));
+            }
+        }
     }
 }
