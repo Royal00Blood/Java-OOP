@@ -7,4 +7,5 @@ public interface Game {
     Answer inputAnswer(String value);
     GameStatus getGameStatus();
     ArrayList<Answer> getHistory();
+
 }

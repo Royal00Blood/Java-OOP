@@ -48,11 +48,25 @@ public class Application {
             System.out.println(String.format("Найдено %d коров и %d быков.", answerGame.getCows(), answerGame.getBulls()));
         }
         System.out.println(game.getGameStatus());
+        String yn = "";
 
-        if(true){
-            ArrayList<Answer> his = game.getHistory();
-            for (int i = 0; i < his.size(); i++) {
-                System.out.println(String.format("Ход № %d: Пользователь ввел: %s Совпало элементов: %d  Совпало элементов по позиции: %d",i, his.get(i).getUserInput(), his.get(i).getCows(), his.get(i).getBulls()));
+        while (!(yn.equals("yes") || yn.equals("no"))){
+            System.out.println("Если вы хотите увидеть историю введите yes:");
+            yn = in.next();
+
+            switch (yn){
+                case "yes":
+                            ArrayList<Answer> his = game.getHistory();
+                            for (int i = 0; i < his.size(); i++) {
+                                System.out.println(String.format("Ход № %d: Пользователь ввел: %s Совпало элементов: %d  Совпало элементов по позиции: %d", i, his.get(i).getUserInput(), his.get(i).getCows(), his.get(i).getBulls()));
+                            }
+                break;
+                case "no":
+                    System.out.println(" <^_^>");
+                break;
+                default:
+                    System.out.println("Вы ввели не то");
+                break;
             }
         }
     }
