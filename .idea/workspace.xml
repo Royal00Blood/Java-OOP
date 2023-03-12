@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="" />
+    <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/WordGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/WordRussianGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/AbstractGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/AbstractGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/NumberGame.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +29,24 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;Royal00Blood&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="240363e9-8ad9-4118-bd99-5b07ada18145" />
+        <option name="url" value="https://github.com/Royal00Blood/Java-OOP.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="w0xvuq00" />
@@ -64,7 +89,7 @@
       <recent name="C:\Users\Anton\IdeaProjects\OOPjava\src\main\java\Homework\HomeWork_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework.HomeWork_4.example.task04.Program">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.HomeWork_3.game.Application" />
       <module name="OOPjava" />
@@ -155,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.Homework.HomeWork_4.example.task04.Program" />
         <item itemvalue="Application.Homework.HomeWork_4.example.task03.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Homework.HomeWork_4.example.task01.Main" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>

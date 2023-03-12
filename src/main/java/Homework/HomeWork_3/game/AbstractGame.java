@@ -49,6 +49,7 @@ public abstract class AbstractGame implements Game {
             }
             if (word.charAt(i) == value.charAt(i)) {
                 bull++;
+
             }
         }
         countTry++;
