@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Help.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/AbstractGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/AbstractGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/GameStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/GameStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/NumberGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Roliki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Roliki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Skateboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Skateboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/human/Transport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +77,46 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.HomeWork_3.game.Application" />
+      <module name="OOPjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.HomeWork_3.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework.HomeWork_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.HomeWork_2.Main" />
+      <module name="OOPjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.HomeWork_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.HomeWork_1.Main" />
+      <module name="OOPjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.HomeWork_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OOPjava" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -95,6 +140,13 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Homework.HomeWork_2.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
