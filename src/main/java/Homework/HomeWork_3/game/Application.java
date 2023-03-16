@@ -38,13 +38,11 @@ public class Application {
         int moveNumMax = 10;
         game.start(4,moveNumMax);
         int moveNum = 0;
-
         while(game.getGameStatus().equals(GameStatus.START)){
             System.out.println(String.format("Ваш ход № %d из %d.",moveNum,moveNumMax));
             moveNum ++;
             String answer = in.next();
             Answer answerGame = game.inputAnswer(answer);
-
             System.out.println(String.format("Найдено %d коров и %d быков.", answerGame.getCows(), answerGame.getBulls()));
         }
         System.out.println(game.getGameStatus());
