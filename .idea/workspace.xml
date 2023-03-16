@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_4/example/task03/Сalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_4/example/task03/Calc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_4/example/task03/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_4/example/task03/Program.java" afterDir="false" />
-    </list>
+    <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

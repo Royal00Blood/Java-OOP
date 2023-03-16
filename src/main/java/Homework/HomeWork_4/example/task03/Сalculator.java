@@ -24,7 +24,6 @@ public class Сalculator {
     }
     public ArrayList binary (List<? extends Number> items){
         ArrayList <String> array = new ArrayList<>();
-        String binaryOut;
         for (Number i:items) {
             array.add(Integer.toBinaryString(i.intValue()));
         }
