@@ -1,7 +1,7 @@
 package Homework.HomeWork_5.HW;
 
 import java.util.Date;
-
+//Liskov substitution principle - потому класс не ограничен относительно наследников
 // Model
 public abstract class User {
     Date dataBirth;

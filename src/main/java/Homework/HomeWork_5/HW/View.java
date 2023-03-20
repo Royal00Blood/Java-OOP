@@ -1,9 +1,9 @@
 package Homework.HomeWork_5.HW;
 
-import java.util.List;
-
-public class View {
-   public String studentView(List<Student> students){
-       return students.toString();
-   }
+//Open-closed principle - скрытие подробностей от других программистов и защита с помошью контракта интерфейса
+public class View implements ViewIService {
+    @Override
+    public String studentView(Student student) {
+        return student.toString();
+    }
 }

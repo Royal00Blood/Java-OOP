@@ -1,7 +1,7 @@
 package Homework.HomeWork_5.HW;
 
 import java.util.List;
-
+//Open-closed principle - скрытие подробностей от других программистов и защита с помошью контракта интерфейса
 public class UserService implements DataService {
 
     @Override

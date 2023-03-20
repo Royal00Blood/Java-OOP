@@ -12,6 +12,4 @@ public class Controller {
         userService.read(users);
     }
 
-
-
 }

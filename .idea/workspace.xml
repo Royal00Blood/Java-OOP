@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/Examole_1/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/GroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/StudyGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/ViewIService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_3/game/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/DataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/DataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/GroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/GroupService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/StudyGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/StudyGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HomeWork_5/HW/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
