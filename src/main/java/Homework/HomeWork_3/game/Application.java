@@ -10,6 +10,7 @@ public class Application {
         System.out.println("   > 1-цифры.    ");
         System.out.println("   > 2-буквы EN. ");
         System.out.println("   > 3-буквы RU. ");
+
         Scanner in = new Scanner(System.in);
 
         int num = 0;
