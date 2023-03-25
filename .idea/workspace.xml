@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="">
+    <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="ggg">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/CalculatorComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/CalculatorInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/LogBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/StatusDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/Сalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/seminar7/Java_Sem13" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,17 +77,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Anton/IdeaProjects/OOPjava/src/main/java/Homework/HW_7"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton\IdeaProjects\OOPjava\src\main\java\Homework\HW_7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Anton\IdeaProjects\OOPjava\src\main\java\Homework\HomeWork_4" />
@@ -193,9 +206,19 @@
       <option name="presentableId" value="Default" />
       <updated>1678029342636</updated>
     </task>
+    <task id="LOCAL-00001" summary="ggg">
+      <created>1679749822330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679749822331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ggg" />
+    <option name="LAST_COMMIT_MESSAGE" value="ggg" />
   </component>
 </project>
