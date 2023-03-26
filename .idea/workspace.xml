@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adc3bd61-84d0-4e2b-91b5-1ae3dd6dc39e" name="Changes" comment="ggg">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/CalculatorComplex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/CalculatorInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/LogBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/StatusDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/Сalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/DoubleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/NumberInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/seminar7/Java_Sem13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HW_7/CalculatorComplex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HW_7/CalculatorInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HW_7/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HW_7/LogBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/LogBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HW_7/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HW_7/StatusDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework/HW_7/StatusDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework/HW_7/Сalculator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,15 +79,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Anton/IdeaProjects/OOPjava/src/main/java/Homework/HW_7"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anton/IdeaProjects/OOPjava/src/main/java/Homework/HW_7&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
@@ -98,7 +100,7 @@
       <recent name="C:\Users\Anton\IdeaProjects\OOPjava\src\main\java\Homework\HomeWork_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Controller">
+  <component name="RunManager" selected="Application.Homework.HW_7.Program">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.HomeWork_3.game.Application" />
       <module name="OOPjava" />
@@ -118,6 +120,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homework.HomeWork_5.HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework.HW_7.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.HW_7.Program" />
+      <module name="OOPjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.HW_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,19 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.HomeWork_4.example.task02.Program" />
-      <module name="OOPjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.HomeWork_4.example.task02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OOPjava" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -189,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework.HW_7.Program" />
         <item itemvalue="Application.Controller" />
         <item itemvalue="Application.Homework.HomeWork_4.example.task03.Program" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.Homework.HomeWork_4.example.task04.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
